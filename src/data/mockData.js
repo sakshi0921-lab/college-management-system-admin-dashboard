@@ -4,7 +4,7 @@ import { tokens } from "../theme";
 export const mockDataTeam = [
   {
     id: 1,
-    name: "Priyanka Singh",
+    name: "Dr.Priyanka Singh",
     email: "jonsnow@gmail.com",
     age: 35,
     phone: "(665)121-5454",
