@@ -149,13 +149,7 @@ const Sidebar = () => {
             />
            
             
-            <Item
-              title="Scholars"
-              to="/invoices"
-              icon={<ReceiptOutlinedIcon />}
-              selected={selected}
-              setSelected={setSelected}
-            />
+           
             <Item
               title="Add Faculty"
               to="/supervisor"
